@@ -18,6 +18,33 @@
         "Elements", 
         "selExercises.json"
       ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "favExercises", 
+        "Elements", 
+        "modExercise.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "favExercises", 
+        "Elements", 
+        "btnExerciseSubmit.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "favExercises", 
+        "Elements", 
+        "btnToNav.json"
+      ]
     }
   ], 
   "class": "", 

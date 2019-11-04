@@ -34,7 +34,7 @@
   "mRight": "", 
   "mTop": "", 
   "name": "", 
-  "onchange": "", 
+  "onchange": "rdoPersonType.onchange()", 
   "onclick": "rdoPersonType.onclick()", 
   "oncopy": "", 
   "oncut": "", 
